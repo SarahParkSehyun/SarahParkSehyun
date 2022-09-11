@@ -13,9 +13,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+
 # 📧Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sarah1918@naver.com)](mailto:sarah1918@naver.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-43B02A?style=flat-square&logo=instagram&logoColor=Pink&link=contactto:https://www.instagram.com/ddehyunni__/)](contactto:https://www.instagram.com/ddehyunni__/)
+[![Instagram](http://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&link=https://www.instagram.com/ddehyunni__/)](https://www.instagram.com/ddehyunni__/)
 <!--
 **SarahParkSehyun/SarahParkSehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
