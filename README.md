@@ -7,6 +7,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahParkSehyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sarah1918)](https://solved.ac/sarah1918/)
 
+
+# 💪Skills
+### Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+# 📧Contacts
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sarah1918@naver.com)](mailto:sarah1918@naver.com)
+
 <!--
 **SarahParkSehyun/SarahParkSehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
