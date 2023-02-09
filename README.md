@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=CEF6CE&height=300&section=header&text=Park%20Sehyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CEF6CE&height=300&section=header&text=Park%20Sehyun&fontSize=90)
 
 
 
