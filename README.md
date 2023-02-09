@@ -13,7 +13,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
+<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 # 📧Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sarah1918@naver.com)](mailto:sarah1918@naver.com)
 [![Instagram](http://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&link=https://www.instagram.com/ddehyunni__/)](https://www.instagram.com/ddehyunni__/)
