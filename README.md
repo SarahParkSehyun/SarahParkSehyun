@@ -5,6 +5,7 @@
 
 ![SarahParkSehyun's github stats](https://github-readme-stats.vercel.app/api?username=SarahParkSehyun&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahParkSehyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={sarah1918}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sarah1918)](https://solved.ac/sarah1918/)
 
 
